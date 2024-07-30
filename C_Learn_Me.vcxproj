@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="数字比较大小.c" />
+    <None Include="1.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="de.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
