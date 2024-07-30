@@ -19,7 +19,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数字比较大小.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\Demo1-Compare个人思考数字比较大小</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
