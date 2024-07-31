@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//解释一下，这里我才学到分支，循环都是猜对的，不要问我为什么不用更简单的方法
 
 int main(void) {
 	int UserNum1, UserNum2;
