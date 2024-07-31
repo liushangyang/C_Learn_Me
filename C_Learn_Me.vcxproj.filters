@@ -19,6 +19,9 @@
     <Filter Include="源文件\Demo2">
       <UniqueIdentifier>{97047a44-4804-46bf-b221-97c3fb992813}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Demo3">
+      <UniqueIdentifier>{102e1c1c-b151-47b5-a085-81f430a3cc70}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ProjectNumberCompare.c">
