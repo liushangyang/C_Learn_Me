@@ -129,6 +129,10 @@
   <ItemGroup>
     <None Include="ProjectNumberCompare.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01输出平方表.c" />
+    <ClCompile Include="02数列计算.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
